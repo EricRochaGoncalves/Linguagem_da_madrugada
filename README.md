@@ -1,4 +1,4 @@
-# Linguagem da Madruga
+# Linguagem da <Madruga> 🌑🌓🌔🌕🌒🌖🌗🌘🌚
 
 A **Linguagem da Madruga** nasceu em uma madrugada sem internet. Quando a conexão caiu, eu aproveitei para testar meus conhecimentos em **orientação a objetos** em Java. O resultado? Acabei criando uma mini linguagem de programação! 
 
