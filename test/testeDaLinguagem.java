@@ -7,22 +7,11 @@ public class testeDaLinguagem {
 
         Variaveis dados = new Variaveis();
 
-
-
-        dados.Texto = "Eric";
-
-        dados.Numero = 19;
-
-       
+        dados.setTexto("Qualquer texto");
+        dados.setNumero(19);
 
         dados.ImprimeDados();
 
-
-
-        
-
-
-        
     }
 }
 
