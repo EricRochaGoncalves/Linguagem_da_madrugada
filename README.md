@@ -1,4 +1,4 @@
-# Linguagem da **<Madruga>** 🌚🌓🌔🌕🌖🌗🌘🌚
+# *Linguagem da Madrugada 🌚🌓🌔🌕🌖🌗🌘🌚*
 
 A **Linguagem da Madruga** nasceu em uma madrugada sem internet. Quando a conexão caiu, eu aproveitei para testar meus conhecimentos em **orientação a objetos** em Java. O resultado? Acabei criando uma mini linguagem de programação! 
 
@@ -22,5 +22,11 @@ A estrutura da Linguagem da Madruga é baseada em objetos simples, mas funcionai
 - Manipulação de variáveis como objetos.
 - Criação de "mini-linguagem" com base em objetos e classes Java.
 - Simples e direto: uma linguagem para quem quer aprender de forma prática.
+
+## Tecnologias
+
+![Java](https://img.shields.io/badge/Java-17-brightgreen?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7.5-brightgreen?logo=spring&logoColor=white)
+
 
 
