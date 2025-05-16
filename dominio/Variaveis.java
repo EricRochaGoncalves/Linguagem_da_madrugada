@@ -2,18 +2,31 @@ package dominio;
 
 public class Variaveis {
 
-    public String Texto;  
+    private String Texto;  
 
-    public int Numero;    
+    private int Numero;    
 
     public void ImprimeDados(){
 
         System.out.println("Dados das variaveis: " );
         
-        System.out.println(Texto);
-        System.out.println(Numero);
+        System.out.println(this.Texto);
+        System.out.println(this.Numero);
 
 
+    }
+
+    public void setTexto ( String Texto){
+        this.Texto = Texto;
+    }
+
+    public void setNumero ( int Numero){
+
+        if ( Numero < 0){
+            System.out.println("Número inválido!");
+            return;
+        }
+            this.Numero = Numero;
     }
 
 }
